@@ -1,0 +1,43 @@
+*
+{
+
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header nav button
+{
+    background-color: rgba(154, 255, 199, 0.58);
+    border: none;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin: 5px;
+    border-radius:10px;
+    box-shadow: 7px 3px 3px #737373;
+}
+
+header h1
+{
+    color: #ac2925;
+    text-shadow:  1px 1px 1px rgba(115, 120, 138, 0.62);
+}
+
+header
+{
+    background-color: rgb(255, 227, 19);
+}
+
+.milieu
+{
+    background-color: rgba(215, 22, 13, 0.50);
+}
+
+.jumbotron
+{
+
+}
+
+footer
+{
+    color: navajowhite;
+    background-color: #333333;
+}
